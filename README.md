@@ -34,6 +34,6 @@ These are created by the build scripts but only the `combined_sic_activities` Mo
 
 There will be two types of data refresh builds (both run in the Docker CHS Development environment):
 
-- Total Refresh of the SIC Code Database (TODO - reference sub page with diagram). The  `combined_sic_activities` Mongo collection is recreated from all CSV files and this is done both for the initial deployment and also when either the `condensed_sic_codes.csv` or / and `ons_economic_activities_alphabetic_index.csv` files change. From history, this is likely to be required every five years.
+- Total Refresh of the SIC Code Database. The  `combined_sic_activities` Mongo collection is recreated from all CSV files and this is done both for the initial deployment and also when either the `condensed_sic_codes.csv` or / and `ons_economic_activities_alphabetic_index.csv` files change. From history, this is likely to be required every five years. More details in [Total refresh page](docs/total_refresh_sic_code_database.md)
 
 - Partial Update of just the CH Economic  (TODO - reference sub page with diagram). The  `combined_sic_activities` Mongo collection is recreated from just the changes from the `ch_created_activity_sic_codes.csv`. This will probably happen six times after the initial release (from user feedback) and then less frequently after that.
