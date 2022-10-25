@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository contain the all files used to create the `combined_sic_activities` Mongo collection that the `sic-code-api` uses. When this collection is updated then it is released into the Mongo database so that the `sic-code-api` uses the latest data.
+This repository contain the all files used to create the `combined_sic_activities` Mongo collection that the `sic-code-api` uses. When this collection is updated then it is released into the Mongo database so that the `sic-code-api` uses the latest data. It also has export and import utility scripts to support this work.
 
 The SIC Code data is quite small and rarely changes so it is ideal to place all the files required to build the `combined_sic_activities` Mongo collection configuration management
 
