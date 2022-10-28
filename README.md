@@ -6,6 +6,17 @@ This repository contain the all files used to create the `combined_sic_activitie
 
 The SIC Code data is quite small and rarely changes so it is ideal to place all the files required to build the `combined_sic_activities` Mongo collection configuration management
 
+##  Set up to create run the scripts
+
+You need to have access to both the Mongo Shell and Mongo import/export utilites. For now the advice is to install these via Homebrew but this could all be run within Docker.
+
+``` bash
+brew tap mongodb/brew
+brew install mongodb-community-shell
+brew install mongodb-database-tools
+```
+
+
 ## file types
 
 ### source data (CSV)
