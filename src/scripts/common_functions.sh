@@ -30,3 +30,11 @@ run_mongo_javascript() {
     mongo "${SIC_CODE_API_MONGO_URL}/${SIC_CODE_API_DATABASE}" "${javascript_file_full_path}"
 
 }
+
+export_collection() {
+    local mongo_collection=$1
+    local output_file=${SCRIPT_DIR}/../import_files/${mongo_collection}.json
+
+    echo "Exporting collection ${mongo_collection} to json file ${output_file}"
+    mongoexport --uri="${SIC_CODE_API_MONGO_URL}" --db "${SIC_CODE_API_DATABASE}" --collection "${mongo_collection}" --jsonArray --pretty --out="${output_file}"
+}

@@ -16,18 +16,31 @@ brew install mongodb-community-shell
 brew install mongodb-database-tools
 ```
 
-
 ## file types
 
 ### source data (CSV)
 
 These files are stored in the `src/source_datafiles` path.
 
-- `condensed_sic_codes.csv`: this is a list of SIC Codes with descriptions and the CSV file is available from [Standard industrial classification of economic activities]((https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic)). This contains 731 SIC codes. This external file was adjusted to add a header record to enable the data load.
+#### `condensed_sic_codes.csv`
 
-- `ons_economic_activities_alphabetic_index.csv` - this is the ONS Economic Activity SIC codes formatted as an alphabetic index; this list adds economic activities for each SIC Code which enables a better search for SIC Codes. This list was last created in 2007 and the CSV file contains 15955 SIC related economic activities. Note that after 2007 there has been a few updates for high profile events such as new economic activities related to COVID-19. This spreadsheet is available from [Indexes with addendum (November 2020)](https://www.ons.gov.uk/file?uri=/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007/uksic2007indexeswithaddendumnovember2020.xlsx). This external file was adjusted to add a header record to enable the data load.
+This is a list of SIC Codes with descriptions and the CSV file is available from [Standard industrial classification of economic activities]((https://www.gov.uk/government/publications/standard-industrial-classification-of-economic-activities-sic)). This contains 731 SIC codes. 
 
-- `ch_created_activity_sic_codes.csv`. This is a new list supplied by Companies House business teams who create this from user queries where Companies House staff have to find the appropriate economic activity for an activity that was not on the 2007 ONS list (e.g. Amazon Seller, YouTuber). This file was provided to the business with a header record since it is more often updated than other files.
+This external file was adjusted:
+1. to add a header record to enable the data load.
+2. remove double quotes on the activity descriptions where they occur (easy using Regex in Editor first with ," and then "$)
+
+#### `ons_economic_activities_alphabetic_index.csv`
+
+This is the ONS Economic Activity SIC codes formatted as an alphabetic index; this list adds economic activities for each SIC Code which enables a better search for SIC Codes. This list was last created in 2007 and the CSV file contains 15955 SIC related economic activities. Note that after 2007 there has been a few updates for high profile events such as new economic activities related to COVID-19. This spreadsheet is available from [Indexes with addendum (November 2020)](https://www.ons.gov.uk/file?uri=/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007/uksic2007indexeswithaddendumnovember2020.xlsx). 
+
+This external file was adjusted:
+1. to add a header record to enable the data load.
+2. remove double quotes on the activity descriptions where they occur (easy using Regex in Editor first with ," and then "$)
+
+#### `ch_created_activity_sic_codes.csv`
+
+ This is a new list supplied by Companies House business teams who create this from user queries where Companies House staff have to find the appropriate economic activity for an activity that was not on the 2007 ONS list (e.g. Amazon Seller, YouTuber). This file was provided to the business with a header record.
 
 ### Build scripts
 
@@ -37,7 +50,7 @@ The Scripts that are used to create the `combined_sic_activities` Mongo collecti
 
 ### Mongo import files
 
-These files are stored in the TODO path.
+These files are stored in the `src/import_files` path.
 
 These are created by the build scripts but only the `combined_sic_activities` Mongo collection is imported into the AWS environments
 
@@ -47,4 +60,4 @@ There will be two types of data refresh builds (both run in the Docker CHS Devel
 
 - Total Refresh of the SIC Code Database. The  `combined_sic_activities` Mongo collection is recreated from all CSV files and this is done both for the initial deployment and also when either the `condensed_sic_codes.csv` or / and `ons_economic_activities_alphabetic_index.csv` files change. From history, this is likely to be required every five years. More details in [Total refresh page](docs/total_refresh_sic_code_database.md)
 
-- Partial Update of just the CH Economic  (TODO - reference sub page with diagram). The  `combined_sic_activities` Mongo collection is recreated from just the changes from the `ch_created_activity_sic_codes.csv`. This will probably happen six times after the initial release (from user feedback) and then less frequently after that.
+- Partial Update of just the CH Economic Activities. The  `combined_sic_activities` Mongo collection is recreated from just the changes from the `ch_created_activity_sic_codes.csv`. This will probably happen six times after the initial release (from user feedback) and then less frequently after that. More details in [Partial refresh page](docs/partial_refresh_sic_code_database.md)

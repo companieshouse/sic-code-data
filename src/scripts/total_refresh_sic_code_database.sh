@@ -3,12 +3,12 @@
 #
 # Simple script to initialise your the sic_code database from all the source datafiles (csv) file
 #
-# Use the export-mongo-collections to create files once you have checked them
+# Use the scripts export_mongo_collections.sh to create files once you have checked the database 
 #
 # The datafiles have fields in the first line
 #
   
-set -o errexit # abort on nonzero exitstatus
+set -o errexit # abort on non zero exit status
 set -o pipefail  # don't hide errors within pipes
 
 

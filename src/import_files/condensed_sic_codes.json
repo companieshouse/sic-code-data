@@ -1,0 +1,5248 @@
+[{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055cc"
+	},
+	"sic_code": "01220",
+	"sic_description": "Growing of tropical and subtropical fruits"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055cd"
+	},
+	"sic_code": "01240",
+	"sic_description": "Growing of pome fruits and stone fruits"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055ce"
+	},
+	"sic_code": "01230",
+	"sic_description": "Growing of citrus fruits"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055cf"
+	},
+	"sic_code": "01260",
+	"sic_description": "Growing of oleaginous fruits"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055d0"
+	},
+	"sic_code": "01270",
+	"sic_description": "Growing of beverage crops"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055d1"
+	},
+	"sic_code": "01280",
+	"sic_description": "Growing of spices",
+	"field2": "aromatic",
+	"field3": "drug and pharmaceutical crops"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055d2"
+	},
+	"sic_code": "01290",
+	"sic_description": "Growing of other perennial crops"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055d3"
+	},
+	"sic_code": "01300",
+	"sic_description": "Plant propagation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055d4"
+	},
+	"sic_code": "01410",
+	"sic_description": "Raising of dairy cattle"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055d5"
+	},
+	"sic_code": "01420",
+	"sic_description": "Raising of other cattle and buffaloes"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055d6"
+	},
+	"sic_code": "01430",
+	"sic_description": "Raising of horses and other equines"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055d7"
+	},
+	"sic_code": "01440",
+	"sic_description": "Raising of camels and camelids"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055d8"
+	},
+	"sic_code": "01450",
+	"sic_description": "Raising of sheep and  goats"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055d9"
+	},
+	"sic_code": "01460",
+	"sic_description": "Raising of swine/pigs"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055da"
+	},
+	"sic_code": "01470",
+	"sic_description": "Raising of poultry"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055db"
+	},
+	"sic_code": "01130",
+	"sic_description": "Growing of vegetables and melons",
+	"field2": "roots and tubers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055dc"
+	},
+	"sic_code": "01500",
+	"sic_description": "Mixed farming"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055dd"
+	},
+	"sic_code": "01610",
+	"sic_description": "Support activities for crop production"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055de"
+	},
+	"sic_code": "01250",
+	"sic_description": "Growing of other tree and bush fruits and nuts"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055df"
+	},
+	"sic_code": "01490",
+	"sic_description": "Raising of other animals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055e0"
+	},
+	"sic_code": "01210",
+	"sic_description": "Growing of grapes"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055e1"
+	},
+	"sic_code": "01110",
+	"sic_description": "Growing of cereals (except rice)",
+	"field2": "leguminous crops and oil seeds"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055e2"
+	},
+	"sic_code": "01190",
+	"sic_description": "Growing of other non-perennial crops"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055e3"
+	},
+	"sic_code": "01160",
+	"sic_description": "Growing of fibre crops"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055e4"
+	},
+	"sic_code": "01120",
+	"sic_description": "Growing of rice"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055e5"
+	},
+	"sic_code": "01140",
+	"sic_description": "Growing of sugar cane"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055e6"
+	},
+	"sic_code": "01150",
+	"sic_description": "Growing of tobacco"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055e7"
+	},
+	"sic_code": "01621",
+	"sic_description": "Farm animal boarding and care"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055e8"
+	},
+	"sic_code": "01629",
+	"sic_description": "Support activities for animal production (other than farm animal boarding and care) n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055e9"
+	},
+	"sic_code": "01630",
+	"sic_description": "Post-harvest crop activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055ea"
+	},
+	"sic_code": "01640",
+	"sic_description": "Seed processing for propagation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055eb"
+	},
+	"sic_code": "02100",
+	"sic_description": "Silviculture and other forestry activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055ec"
+	},
+	"sic_code": "02200",
+	"sic_description": "Logging"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055ed"
+	},
+	"sic_code": "02300",
+	"sic_description": "Gathering of wild growing non-wood products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055ee"
+	},
+	"sic_code": "02400",
+	"sic_description": "Support services to forestry"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055ef"
+	},
+	"sic_code": "03110",
+	"sic_description": "Marine fishing"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055f0"
+	},
+	"sic_code": "03120",
+	"sic_description": "Freshwater fishing"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055f1"
+	},
+	"sic_code": "03210",
+	"sic_description": "Marine aquaculture"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055f2"
+	},
+	"sic_code": "03220",
+	"sic_description": "Freshwater aquaculture"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055f3"
+	},
+	"sic_code": "05101",
+	"sic_description": "Deep coal mines"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055f4"
+	},
+	"sic_code": "05102",
+	"sic_description": "Open cast coal working"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055f5"
+	},
+	"sic_code": "05200",
+	"sic_description": "Mining of lignite"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055f6"
+	},
+	"sic_code": "06100",
+	"sic_description": "Extraction of crude petroleum"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055f7"
+	},
+	"sic_code": "06200",
+	"sic_description": "Extraction of natural gas"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055f8"
+	},
+	"sic_code": "07100",
+	"sic_description": "Mining of iron ores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055f9"
+	},
+	"sic_code": "01700",
+	"sic_description": "Hunting",
+	"field2": "trapping and related service activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055fa"
+	},
+	"sic_code": "07210",
+	"sic_description": "Mining of uranium and thorium ores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055fb"
+	},
+	"sic_code": "07290",
+	"sic_description": "Mining of other non-ferrous metal ores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055fc"
+	},
+	"sic_code": "08910",
+	"sic_description": "Mining of chemical and fertilizer minerals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055fd"
+	},
+	"sic_code": "08920",
+	"sic_description": "Extraction of peat"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055fe"
+	},
+	"sic_code": "08110",
+	"sic_description": "Quarrying of ornamental and building stone",
+	"field2": "limestone",
+	"field3": "gypsum",
+	"field4": "chalk and slate"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d055ff"
+	},
+	"sic_code": "08930",
+	"sic_description": "Extraction of salt"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05600"
+	},
+	"sic_code": "08990",
+	"sic_description": "Other mining and quarrying n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05601"
+	},
+	"sic_code": "08120",
+	"sic_description": "Operation of gravel and sand pits; mining of clays and kaolin"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05602"
+	},
+	"sic_code": "09100",
+	"sic_description": "Support activities for petroleum and natural gas extraction"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05603"
+	},
+	"sic_code": "10110",
+	"sic_description": "Processing and preserving of meat"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05604"
+	},
+	"sic_code": "09900",
+	"sic_description": "Support activities for other mining and quarrying"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05605"
+	},
+	"sic_code": "10120",
+	"sic_description": "Processing and preserving of poultry meat"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05606"
+	},
+	"sic_code": "10130",
+	"sic_description": "Production of meat and poultry meat products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05607"
+	},
+	"sic_code": "10200",
+	"sic_description": "Processing and preserving of fish",
+	"field2": "crustaceans and molluscs"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05608"
+	},
+	"sic_code": "10410",
+	"sic_description": "Manufacture of oils and fats"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05609"
+	},
+	"sic_code": "10611",
+	"sic_description": "Grain milling"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0560a"
+	},
+	"sic_code": "10612",
+	"sic_description": "Manufacture of breakfast cereals and cereals-based food"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0560b"
+	},
+	"sic_code": "10620",
+	"sic_description": "Manufacture of starches and starch products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0560c"
+	},
+	"sic_code": "10310",
+	"sic_description": "Processing and preserving of potatoes"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0560d"
+	},
+	"sic_code": "10511",
+	"sic_description": "Liquid milk and cream production"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0560e"
+	},
+	"sic_code": "10320",
+	"sic_description": "Manufacture of fruit and vegetable juice"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0560f"
+	},
+	"sic_code": "10390",
+	"sic_description": "Other processing and preserving of fruit and vegetables"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05610"
+	},
+	"sic_code": "10420",
+	"sic_description": "Manufacture of margarine and similar edible fats"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05611"
+	},
+	"sic_code": "10519",
+	"sic_description": "Manufacture of other milk products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05612"
+	},
+	"sic_code": "10512",
+	"sic_description": "Butter and cheese production"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05613"
+	},
+	"sic_code": "10520",
+	"sic_description": "Manufacture of ice cream"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05614"
+	},
+	"sic_code": "10710",
+	"sic_description": "Manufacture of bread; manufacture of fresh pastry goods and cakes"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05615"
+	},
+	"sic_code": "10720",
+	"sic_description": "Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05616"
+	},
+	"sic_code": "10730",
+	"sic_description": "Manufacture of macaroni",
+	"field2": "noodles",
+	"field3": "couscous and similar farinaceous products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05617"
+	},
+	"sic_code": "10810",
+	"sic_description": "Manufacture of sugar"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05618"
+	},
+	"sic_code": "10821",
+	"sic_description": "Manufacture of cocoa and chocolate confectionery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05619"
+	},
+	"sic_code": "10822",
+	"sic_description": "Manufacture of sugar confectionery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0561a"
+	},
+	"sic_code": "10831",
+	"sic_description": "Tea processing"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0561b"
+	},
+	"sic_code": "10832",
+	"sic_description": "Production of coffee and coffee substitutes"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0561c"
+	},
+	"sic_code": "10840",
+	"sic_description": "Manufacture of condiments and seasonings"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0561d"
+	},
+	"sic_code": "10850",
+	"sic_description": "Manufacture of prepared meals and dishes"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0561e"
+	},
+	"sic_code": "10860",
+	"sic_description": "Manufacture of homogenized food preparations and dietetic food"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0561f"
+	},
+	"sic_code": "10890",
+	"sic_description": "Manufacture of other food products n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05620"
+	},
+	"sic_code": "10910",
+	"sic_description": "Manufacture of prepared feeds for farm animals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05621"
+	},
+	"sic_code": "10920",
+	"sic_description": "Manufacture of prepared pet foods"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05622"
+	},
+	"sic_code": "11020",
+	"sic_description": "Manufacture of wine from grape"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05623"
+	},
+	"sic_code": "11010",
+	"sic_description": "Distilling",
+	"field2": "rectifying and blending of spirits"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05624"
+	},
+	"sic_code": "11030",
+	"sic_description": "Manufacture of cider and other fruit wines"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05625"
+	},
+	"sic_code": "11040",
+	"sic_description": "Manufacture of other non-distilled fermented beverages"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05626"
+	},
+	"sic_code": "11050",
+	"sic_description": "Manufacture of beer"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05627"
+	},
+	"sic_code": "11070",
+	"sic_description": "Manufacture of soft drinks; production of mineral waters and other bottled waters"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05628"
+	},
+	"sic_code": "12000",
+	"sic_description": "Manufacture of tobacco products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05629"
+	},
+	"sic_code": "11060",
+	"sic_description": "Manufacture of malt"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0562a"
+	},
+	"sic_code": "13100",
+	"sic_description": "Preparation and spinning of textile fibres"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0562b"
+	},
+	"sic_code": "13200",
+	"sic_description": "Weaving of textiles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0562c"
+	},
+	"sic_code": "13300",
+	"sic_description": "Finishing of textiles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0562d"
+	},
+	"sic_code": "13910",
+	"sic_description": "Manufacture of knitted and crocheted fabrics"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0562e"
+	},
+	"sic_code": "13931",
+	"sic_description": "Manufacture of woven or tufted carpets and rugs"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0562f"
+	},
+	"sic_code": "13923",
+	"sic_description": "manufacture of household textiles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05630"
+	},
+	"sic_code": "13922",
+	"sic_description": "manufacture of canvas goods",
+	"field2": "sacks",
+	"field3": "etc."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05631"
+	},
+	"sic_code": "13921",
+	"sic_description": "Manufacture of soft furnishings"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05632"
+	},
+	"sic_code": "13939",
+	"sic_description": "Manufacture of other carpets and rugs"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05633"
+	},
+	"sic_code": "13940",
+	"sic_description": "Manufacture of cordage",
+	"field2": "rope",
+	"field3": "twine and netting"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05634"
+	},
+	"sic_code": "13950",
+	"sic_description": "Manufacture of non-wovens and articles made from non-wovens",
+	"field2": "except apparel"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05635"
+	},
+	"sic_code": "13960",
+	"sic_description": "Manufacture of other technical and industrial textiles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05636"
+	},
+	"sic_code": "14110",
+	"sic_description": "Manufacture of leather clothes"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05637"
+	},
+	"sic_code": "13990",
+	"sic_description": "Manufacture of other textiles n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05638"
+	},
+	"sic_code": "14120",
+	"sic_description": "Manufacture of workwear"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05639"
+	},
+	"sic_code": "14131",
+	"sic_description": "Manufacture of other men's outerwear"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0563a"
+	},
+	"sic_code": "14132",
+	"sic_description": "Manufacture of other women's outerwear"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0563b"
+	},
+	"sic_code": "14141",
+	"sic_description": "Manufacture of men's underwear"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0563c"
+	},
+	"sic_code": "14142",
+	"sic_description": "Manufacture of women's underwear"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0563d"
+	},
+	"sic_code": "14190",
+	"sic_description": "Manufacture of other wearing apparel and accessories n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0563e"
+	},
+	"sic_code": "14200",
+	"sic_description": "Manufacture of articles of fur"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0563f"
+	},
+	"sic_code": "14310",
+	"sic_description": "Manufacture of knitted and crocheted hosiery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05640"
+	},
+	"sic_code": "14390",
+	"sic_description": "Manufacture of other knitted and crocheted apparel"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05641"
+	},
+	"sic_code": "15110",
+	"sic_description": "Tanning and dressing of leather; dressing and dyeing of fur"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05642"
+	},
+	"sic_code": "15120",
+	"sic_description": "Manufacture of luggage",
+	"field2": "handbags and the like",
+	"field3": "saddlery and harness"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05643"
+	},
+	"sic_code": "15200",
+	"sic_description": "Manufacture of footwear"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05644"
+	},
+	"sic_code": "16100",
+	"sic_description": "Sawmilling and planing of wood"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05645"
+	},
+	"sic_code": "16210",
+	"sic_description": "Manufacture of veneer sheets and wood-based panels"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05646"
+	},
+	"sic_code": "16220",
+	"sic_description": "Manufacture of assembled parquet floors"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05647"
+	},
+	"sic_code": "16230",
+	"sic_description": "Manufacture of other builders' carpentry and joinery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05648"
+	},
+	"sic_code": "16290",
+	"sic_description": "Manufacture of other products of wood; manufacture of articles of cork",
+	"field2": "straw and plaiting materials"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05649"
+	},
+	"sic_code": "17110",
+	"sic_description": "Manufacture of pulp"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0564a"
+	},
+	"sic_code": "17120",
+	"sic_description": "Manufacture of paper and paperboard"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0564b"
+	},
+	"sic_code": "16240",
+	"sic_description": "Manufacture of wooden containers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0564c"
+	},
+	"sic_code": "17219",
+	"sic_description": "Manufacture of other paper and paperboard containers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0564d"
+	},
+	"sic_code": "17220",
+	"sic_description": "Manufacture of household and sanitary goods and of toilet requisites"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0564e"
+	},
+	"sic_code": "17230",
+	"sic_description": "Manufacture of paper stationery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0564f"
+	},
+	"sic_code": "17211",
+	"sic_description": "Manufacture of corrugated paper and paperboard",
+	"field2": "sacks and bags"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05650"
+	},
+	"sic_code": "17240",
+	"sic_description": "Manufacture of wallpaper"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05651"
+	},
+	"sic_code": "17290",
+	"sic_description": "Manufacture of other articles of paper and paperboard n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05652"
+	},
+	"sic_code": "18110",
+	"sic_description": "Printing of newspapers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05653"
+	},
+	"sic_code": "18121",
+	"sic_description": "Manufacture of printed labels"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05654"
+	},
+	"sic_code": "18129",
+	"sic_description": "Printing n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05655"
+	},
+	"sic_code": "18130",
+	"sic_description": "Pre-press and pre-media services"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05656"
+	},
+	"sic_code": "18140",
+	"sic_description": "Binding and related services"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05657"
+	},
+	"sic_code": "18201",
+	"sic_description": "Reproduction of sound recording"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05658"
+	},
+	"sic_code": "18202",
+	"sic_description": "Reproduction of video recording"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05659"
+	},
+	"sic_code": "18203",
+	"sic_description": "Reproduction of computer media"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0565a"
+	},
+	"sic_code": "19100",
+	"sic_description": "Manufacture of coke oven products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0565b"
+	},
+	"sic_code": "19209",
+	"sic_description": "Other treatment of petroleum products (excluding petrochemicals manufacture)"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0565c"
+	},
+	"sic_code": "19201",
+	"sic_description": "Mineral oil refining"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0565d"
+	},
+	"sic_code": "20110",
+	"sic_description": "Manufacture of industrial gases"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0565e"
+	},
+	"sic_code": "20120",
+	"sic_description": "Manufacture of dyes and pigments"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0565f"
+	},
+	"sic_code": "20140",
+	"sic_description": "Manufacture of other organic basic chemicals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05660"
+	},
+	"sic_code": "20150",
+	"sic_description": "Manufacture of fertilizers and nitrogen compounds"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05661"
+	},
+	"sic_code": "20130",
+	"sic_description": "Manufacture of other inorganic basic chemicals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05662"
+	},
+	"sic_code": "20160",
+	"sic_description": "Manufacture of plastics in primary forms"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05663"
+	},
+	"sic_code": "20200",
+	"sic_description": "Manufacture of pesticides and other agrochemical products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05664"
+	},
+	"sic_code": "20301",
+	"sic_description": "Manufacture of paints",
+	"field2": "varnishes and similar coatings",
+	"field3": "mastics and sealants"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05665"
+	},
+	"sic_code": "20170",
+	"sic_description": "Manufacture of synthetic rubber in primary forms"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05666"
+	},
+	"sic_code": "20302",
+	"sic_description": "Manufacture of printing ink"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05667"
+	},
+	"sic_code": "20420",
+	"sic_description": "Manufacture of perfumes and toilet preparations"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05668"
+	},
+	"sic_code": "20411",
+	"sic_description": "Manufacture of soap and detergents"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05669"
+	},
+	"sic_code": "20412",
+	"sic_description": "Manufacture of cleaning and polishing preparations"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0566a"
+	},
+	"sic_code": "20530",
+	"sic_description": "Manufacture of essential oils"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0566b"
+	},
+	"sic_code": "20520",
+	"sic_description": "Manufacture of glues"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0566c"
+	},
+	"sic_code": "20510",
+	"sic_description": "Manufacture of explosives"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0566d"
+	},
+	"sic_code": "20600",
+	"sic_description": "Manufacture of man-made fibres"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0566e"
+	},
+	"sic_code": "20590",
+	"sic_description": "Manufacture of other chemical products n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0566f"
+	},
+	"sic_code": "21100",
+	"sic_description": "Manufacture of basic pharmaceutical products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05670"
+	},
+	"sic_code": "21200",
+	"sic_description": "Manufacture of pharmaceutical preparations"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05671"
+	},
+	"sic_code": "22110",
+	"sic_description": "Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05672"
+	},
+	"sic_code": "22190",
+	"sic_description": "Manufacture of other rubber products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05673"
+	},
+	"sic_code": "22210",
+	"sic_description": "Manufacture of plastic plates",
+	"field2": "sheets",
+	"field3": "tubes and profiles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05674"
+	},
+	"sic_code": "22220",
+	"sic_description": "Manufacture of plastic packing goods"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05675"
+	},
+	"sic_code": "22230",
+	"sic_description": "Manufacture of builders  ware of plastic"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05676"
+	},
+	"sic_code": "22290",
+	"sic_description": "Manufacture of other plastic products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05677"
+	},
+	"sic_code": "23110",
+	"sic_description": "Manufacture of flat glass"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05678"
+	},
+	"sic_code": "23120",
+	"sic_description": "Shaping and processing of flat glass"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05679"
+	},
+	"sic_code": "23130",
+	"sic_description": "Manufacture of hollow glass"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0567a"
+	},
+	"sic_code": "23190",
+	"sic_description": "Manufacture and processing of other glass",
+	"field2": "including technical glassware"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0567b"
+	},
+	"sic_code": "23200",
+	"sic_description": "Manufacture of refractory products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0567c"
+	},
+	"sic_code": "23310",
+	"sic_description": "Manufacture of ceramic tiles and flags"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0567d"
+	},
+	"sic_code": "23140",
+	"sic_description": "Manufacture of glass fibres"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0567e"
+	},
+	"sic_code": "23410",
+	"sic_description": "Manufacture of ceramic household and ornamental articles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0567f"
+	},
+	"sic_code": "23420",
+	"sic_description": "Manufacture of ceramic sanitary fixtures"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05680"
+	},
+	"sic_code": "23430",
+	"sic_description": "Manufacture of ceramic insulators and insulating fittings"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05681"
+	},
+	"sic_code": "23320",
+	"sic_description": "Manufacture of bricks",
+	"field2": "tiles and construction products",
+	"field3": "in baked clay"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05682"
+	},
+	"sic_code": "23490",
+	"sic_description": "Manufacture of other ceramic products n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05683"
+	},
+	"sic_code": "23440",
+	"sic_description": "Manufacture of other technical ceramic products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05684"
+	},
+	"sic_code": "23510",
+	"sic_description": "Manufacture of cement"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05685"
+	},
+	"sic_code": "23520",
+	"sic_description": "Manufacture of lime and plaster"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05686"
+	},
+	"sic_code": "23610",
+	"sic_description": "Manufacture of concrete products for construction purposes"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05687"
+	},
+	"sic_code": "23620",
+	"sic_description": "Manufacture of plaster products for construction purposes"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05688"
+	},
+	"sic_code": "23630",
+	"sic_description": "Manufacture of ready-mixed concrete"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05689"
+	},
+	"sic_code": "23640",
+	"sic_description": "Manufacture of mortars"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0568a"
+	},
+	"sic_code": "23650",
+	"sic_description": "Manufacture of fibre cement"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0568b"
+	},
+	"sic_code": "23690",
+	"sic_description": "Manufacture of other articles of concrete",
+	"field2": "plaster and cement"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0568c"
+	},
+	"sic_code": "23700",
+	"sic_description": "Cutting",
+	"field2": "shaping and finishing of stone"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0568d"
+	},
+	"sic_code": "23910",
+	"sic_description": "Production of abrasive products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0568e"
+	},
+	"sic_code": "23990",
+	"sic_description": "Manufacture of other non-metallic mineral products n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0568f"
+	},
+	"sic_code": "24100",
+	"sic_description": "Manufacture of basic iron and steel and of ferro-alloys"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05690"
+	},
+	"sic_code": "24310",
+	"sic_description": "Cold drawing of bars"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05691"
+	},
+	"sic_code": "24200",
+	"sic_description": "Manufacture of tubes",
+	"field2": "pipes",
+	"field3": "hollow profiles and related fittings",
+	"field4": "of steel"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05692"
+	},
+	"sic_code": "24410",
+	"sic_description": "Precious metals production"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05693"
+	},
+	"sic_code": "24330",
+	"sic_description": "Cold forming or folding"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05694"
+	},
+	"sic_code": "24340",
+	"sic_description": "Cold drawing of wire"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05695"
+	},
+	"sic_code": "24430",
+	"sic_description": "Lead",
+	"field2": "zinc and tin production"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05696"
+	},
+	"sic_code": "24420",
+	"sic_description": "Aluminium production"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05697"
+	},
+	"sic_code": "24460",
+	"sic_description": "Processing of nuclear fuel"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05698"
+	},
+	"sic_code": "24320",
+	"sic_description": "Cold rolling of narrow strip"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05699"
+	},
+	"sic_code": "24510",
+	"sic_description": "Casting of iron"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0569a"
+	},
+	"sic_code": "24440",
+	"sic_description": "Copper production"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0569b"
+	},
+	"sic_code": "24450",
+	"sic_description": "Other non-ferrous metal production"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0569c"
+	},
+	"sic_code": "24520",
+	"sic_description": "Casting of steel"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0569d"
+	},
+	"sic_code": "24530",
+	"sic_description": "Casting of light metals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0569e"
+	},
+	"sic_code": "25120",
+	"sic_description": "Manufacture of doors and windows of metal"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0569f"
+	},
+	"sic_code": "24540",
+	"sic_description": "Casting of other non-ferrous metals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056a0"
+	},
+	"sic_code": "25290",
+	"sic_description": "Manufacture of other tanks",
+	"field2": "reservoirs and containers of metal"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056a1"
+	},
+	"sic_code": "25110",
+	"sic_description": "Manufacture of metal structures and parts of structures"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056a2"
+	},
+	"sic_code": "25300",
+	"sic_description": "Manufacture of steam generators",
+	"field2": "except central heating hot water boilers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056a3"
+	},
+	"sic_code": "25610",
+	"sic_description": "Treatment and coating of metals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056a4"
+	},
+	"sic_code": "25400",
+	"sic_description": "Manufacture of weapons and ammunition"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056a5"
+	},
+	"sic_code": "25500",
+	"sic_description": "Forging",
+	"field2": "pressing",
+	"field3": "stamping and roll-forming of metal; powder metallurgy"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056a6"
+	},
+	"sic_code": "25210",
+	"sic_description": "Manufacture of central heating radiators and boilers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056a7"
+	},
+	"sic_code": "25620",
+	"sic_description": "Machining"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056a8"
+	},
+	"sic_code": "25730",
+	"sic_description": "Manufacture of tools"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056a9"
+	},
+	"sic_code": "25720",
+	"sic_description": "Manufacture of locks and hinges"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056aa"
+	},
+	"sic_code": "25710",
+	"sic_description": "Manufacture of cutlery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056ab"
+	},
+	"sic_code": "25910",
+	"sic_description": "Manufacture of steel drums and similar containers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056ac"
+	},
+	"sic_code": "25920",
+	"sic_description": "Manufacture of light metal packaging"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056ad"
+	},
+	"sic_code": "25990",
+	"sic_description": "Manufacture of other fabricated metal products n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056ae"
+	},
+	"sic_code": "26110",
+	"sic_description": "Manufacture of electronic components"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056af"
+	},
+	"sic_code": "25940",
+	"sic_description": "Manufacture of fasteners and screw machine products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056b0"
+	},
+	"sic_code": "25930",
+	"sic_description": "Manufacture of wire products",
+	"field2": "chain and springs"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056b1"
+	},
+	"sic_code": "26200",
+	"sic_description": "Manufacture of computers and peripheral equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056b2"
+	},
+	"sic_code": "26309",
+	"sic_description": "Manufacture of communication equipment other than telegraph",
+	"field2": "and telephone apparatus and equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056b3"
+	},
+	"sic_code": "26301",
+	"sic_description": "Manufacture of telegraph and telephone apparatus and equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056b4"
+	},
+	"sic_code": "26511",
+	"sic_description": "Manufacture of electronic measuring",
+	"field2": "testing etc. equipment",
+	"field3": "not for industrial process control"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056b5"
+	},
+	"sic_code": "26120",
+	"sic_description": "Manufacture of loaded electronic boards"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056b6"
+	},
+	"sic_code": "26400",
+	"sic_description": "Manufacture of consumer electronics"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056b7"
+	},
+	"sic_code": "26513",
+	"sic_description": "Manufacture of non-electronic measuring",
+	"field2": "testing etc. equipment",
+	"field3": "not for industrial process control"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056b8"
+	},
+	"sic_code": "26512",
+	"sic_description": "Manufacture of electronic industrial process control equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056b9"
+	},
+	"sic_code": "26514",
+	"sic_description": "Manufacture of non-electronic industrial process control equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056ba"
+	},
+	"sic_code": "26520",
+	"sic_description": "Manufacture of watches and clocks"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056bb"
+	},
+	"sic_code": "26600",
+	"sic_description": "Manufacture of irradiation",
+	"field2": "electromedical and electrotherapeutic equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056bc"
+	},
+	"sic_code": "26701",
+	"sic_description": "Manufacture of optical precision instruments"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056bd"
+	},
+	"sic_code": "26800",
+	"sic_description": "Manufacture of magnetic and optical media"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056be"
+	},
+	"sic_code": "27110",
+	"sic_description": "Manufacture of electric motors",
+	"field2": "generators and transformers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056bf"
+	},
+	"sic_code": "27120",
+	"sic_description": "Manufacture of electricity distribution and control apparatus"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056c0"
+	},
+	"sic_code": "26702",
+	"sic_description": "Manufacture of photographic and cinematographic equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056c1"
+	},
+	"sic_code": "27310",
+	"sic_description": "Manufacture of fibre optic cables"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056c2"
+	},
+	"sic_code": "27200",
+	"sic_description": "Manufacture of batteries and accumulators"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056c3"
+	},
+	"sic_code": "27320",
+	"sic_description": "Manufacture of other electronic and electric wires and cables"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056c4"
+	},
+	"sic_code": "27330",
+	"sic_description": "Manufacture of wiring devices"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056c5"
+	},
+	"sic_code": "27520",
+	"sic_description": "Manufacture of non-electric domestic appliances"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056c6"
+	},
+	"sic_code": "27510",
+	"sic_description": "Manufacture of electric domestic appliances"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056c7"
+	},
+	"sic_code": "27400",
+	"sic_description": "Manufacture of electric lighting equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056c8"
+	},
+	"sic_code": "27900",
+	"sic_description": "Manufacture of other electrical equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056c9"
+	},
+	"sic_code": "28110",
+	"sic_description": "Manufacture of engines and turbines",
+	"field2": "except aircraft",
+	"field3": "vehicle and cycle engines"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056ca"
+	},
+	"sic_code": "28140",
+	"sic_description": "Manufacture of taps and valves"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056cb"
+	},
+	"sic_code": "28120",
+	"sic_description": "Manufacture of fluid power equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056cc"
+	},
+	"sic_code": "28131",
+	"sic_description": "Manufacture of pumps"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056cd"
+	},
+	"sic_code": "28132",
+	"sic_description": "Manufacture of compressors"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056ce"
+	},
+	"sic_code": "28210",
+	"sic_description": "Manufacture of ovens",
+	"field2": "furnaces and furnace burners"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056cf"
+	},
+	"sic_code": "28150",
+	"sic_description": "Manufacture of bearings",
+	"field2": "gears",
+	"field3": "gearing and driving elements"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056d0"
+	},
+	"sic_code": "28220",
+	"sic_description": "Manufacture of lifting and handling equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056d1"
+	},
+	"sic_code": "28230",
+	"sic_description": "Manufacture of office machinery and equipment (except computers and peripheral equipment)"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056d2"
+	},
+	"sic_code": "28240",
+	"sic_description": "Manufacture of power-driven hand tools"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056d3"
+	},
+	"sic_code": "28290",
+	"sic_description": "Manufacture of other general-purpose machinery n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056d4"
+	},
+	"sic_code": "28301",
+	"sic_description": "Manufacture of agricultural tractors"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056d5"
+	},
+	"sic_code": "28250",
+	"sic_description": "Manufacture of non-domestic cooling and ventilation equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056d6"
+	},
+	"sic_code": "28302",
+	"sic_description": "Manufacture of agricultural and forestry machinery other than tractors"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056d7"
+	},
+	"sic_code": "28410",
+	"sic_description": "Manufacture of metal forming machinery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056d8"
+	},
+	"sic_code": "28490",
+	"sic_description": "Manufacture of other machine tools"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056d9"
+	},
+	"sic_code": "28910",
+	"sic_description": "Manufacture of machinery for metallurgy"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056da"
+	},
+	"sic_code": "28922",
+	"sic_description": "Manufacture of earthmoving equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056db"
+	},
+	"sic_code": "28923",
+	"sic_description": "Manufacture of equipment for concrete crushing and screening and roadworks"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056dc"
+	},
+	"sic_code": "28930",
+	"sic_description": "Manufacture of machinery for food",
+	"field2": "beverage and tobacco processing"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056dd"
+	},
+	"sic_code": "28940",
+	"sic_description": "Manufacture of machinery for textile",
+	"field2": "apparel and leather production"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056de"
+	},
+	"sic_code": "28921",
+	"sic_description": "Manufacture of machinery for mining"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056df"
+	},
+	"sic_code": "28950",
+	"sic_description": "Manufacture of machinery for paper and paperboard production"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056e0"
+	},
+	"sic_code": "28960",
+	"sic_description": "Manufacture of plastics and rubber machinery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056e1"
+	},
+	"sic_code": "28990",
+	"sic_description": "Manufacture of other special-purpose machinery n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056e2"
+	},
+	"sic_code": "29100",
+	"sic_description": "Manufacture of motor vehicles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056e3"
+	},
+	"sic_code": "29201",
+	"sic_description": "Manufacture of bodies (coachwork) for motor vehicles (except caravans)"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056e4"
+	},
+	"sic_code": "29202",
+	"sic_description": "Manufacture of trailers and semi-trailers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056e5"
+	},
+	"sic_code": "29310",
+	"sic_description": "Manufacture of electrical and electronic equipment for motor vehicles and their engines"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056e6"
+	},
+	"sic_code": "29320",
+	"sic_description": "Manufacture of other parts and accessories for motor vehicles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056e7"
+	},
+	"sic_code": "30120",
+	"sic_description": "Building of pleasure and sporting boats"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056e8"
+	},
+	"sic_code": "29203",
+	"sic_description": "Manufacture of caravans"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056e9"
+	},
+	"sic_code": "30300",
+	"sic_description": "Manufacture of air and spacecraft and related machinery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056ea"
+	},
+	"sic_code": "30110",
+	"sic_description": "Building of ships and floating structures"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056eb"
+	},
+	"sic_code": "30400",
+	"sic_description": "Manufacture of military fighting vehicles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056ec"
+	},
+	"sic_code": "30910",
+	"sic_description": "Manufacture of motorcycles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056ed"
+	},
+	"sic_code": "30200",
+	"sic_description": "Manufacture of railway locomotives and rolling stock"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056ee"
+	},
+	"sic_code": "31010",
+	"sic_description": "Manufacture of office and shop furniture"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056ef"
+	},
+	"sic_code": "30990",
+	"sic_description": "Manufacture of other transport equipment n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056f0"
+	},
+	"sic_code": "30920",
+	"sic_description": "Manufacture of bicycles and invalid carriages"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056f1"
+	},
+	"sic_code": "32110",
+	"sic_description": "Striking of coins"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056f2"
+	},
+	"sic_code": "31020",
+	"sic_description": "Manufacture of kitchen furniture"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056f3"
+	},
+	"sic_code": "31090",
+	"sic_description": "Manufacture of other furniture"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056f4"
+	},
+	"sic_code": "31030",
+	"sic_description": "Manufacture of mattresses"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056f5"
+	},
+	"sic_code": "32120",
+	"sic_description": "Manufacture of jewellery and related articles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056f6"
+	},
+	"sic_code": "32130",
+	"sic_description": "Manufacture of imitation jewellery and related articles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056f7"
+	},
+	"sic_code": "32200",
+	"sic_description": "Manufacture of musical instruments"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056f8"
+	},
+	"sic_code": "32300",
+	"sic_description": "Manufacture of sports goods"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056f9"
+	},
+	"sic_code": "32401",
+	"sic_description": "Manufacture of professional and arcade games and toys"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056fa"
+	},
+	"sic_code": "32409",
+	"sic_description": "Manufacture of other games and toys",
+	"field2": "n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056fb"
+	},
+	"sic_code": "32500",
+	"sic_description": "Manufacture of medical and dental instruments and supplies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056fc"
+	},
+	"sic_code": "32910",
+	"sic_description": "Manufacture of brooms and brushes"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056fd"
+	},
+	"sic_code": "32990",
+	"sic_description": "Other manufacturing n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056fe"
+	},
+	"sic_code": "33110",
+	"sic_description": "Repair of fabricated metal products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d056ff"
+	},
+	"sic_code": "33120",
+	"sic_description": "Repair of machinery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05700"
+	},
+	"sic_code": "33130",
+	"sic_description": "Repair of electronic and optical equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05701"
+	},
+	"sic_code": "33150",
+	"sic_description": "Repair and maintenance of ships and boats"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05702"
+	},
+	"sic_code": "33140",
+	"sic_description": "Repair of electrical equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05703"
+	},
+	"sic_code": "33160",
+	"sic_description": "Repair and maintenance of aircraft and spacecraft"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05704"
+	},
+	"sic_code": "33170",
+	"sic_description": "Repair and maintenance of other transport equipment n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05705"
+	},
+	"sic_code": "35110",
+	"sic_description": "Production of electricity"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05706"
+	},
+	"sic_code": "35130",
+	"sic_description": "Distribution of electricity"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05707"
+	},
+	"sic_code": "35120",
+	"sic_description": "Transmission of electricity"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05708"
+	},
+	"sic_code": "33190",
+	"sic_description": "Repair of other equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05709"
+	},
+	"sic_code": "35220",
+	"sic_description": "Distribution of gaseous fuels through mains"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0570a"
+	},
+	"sic_code": "35140",
+	"sic_description": "Trade of electricity"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0570b"
+	},
+	"sic_code": "33200",
+	"sic_description": "Installation of industrial machinery and equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0570c"
+	},
+	"sic_code": "35300",
+	"sic_description": "Steam and air conditioning supply"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0570d"
+	},
+	"sic_code": "35230",
+	"sic_description": "Trade of gas through mains"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0570e"
+	},
+	"sic_code": "36000",
+	"sic_description": "Water collection",
+	"field2": "treatment and supply"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0570f"
+	},
+	"sic_code": "35210",
+	"sic_description": "Manufacture of gas"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05710"
+	},
+	"sic_code": "38120",
+	"sic_description": "Collection of hazardous waste"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05711"
+	},
+	"sic_code": "37000",
+	"sic_description": "Sewerage"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05712"
+	},
+	"sic_code": "38110",
+	"sic_description": "Collection of non-hazardous waste"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05713"
+	},
+	"sic_code": "38210",
+	"sic_description": "Treatment and disposal of non-hazardous waste"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05714"
+	},
+	"sic_code": "38220",
+	"sic_description": "Treatment and disposal of hazardous waste"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05715"
+	},
+	"sic_code": "38310",
+	"sic_description": "Dismantling of wrecks"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05716"
+	},
+	"sic_code": "38320",
+	"sic_description": "Recovery of sorted materials"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05717"
+	},
+	"sic_code": "41100",
+	"sic_description": "Development of building projects"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05718"
+	},
+	"sic_code": "39000",
+	"sic_description": "Remediation activities and other waste management services"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05719"
+	},
+	"sic_code": "41201",
+	"sic_description": "Construction of commercial buildings"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0571a"
+	},
+	"sic_code": "41202",
+	"sic_description": "Construction of domestic buildings"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0571b"
+	},
+	"sic_code": "42110",
+	"sic_description": "Construction of roads and motorways"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0571c"
+	},
+	"sic_code": "42130",
+	"sic_description": "Construction of bridges and tunnels"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0571d"
+	},
+	"sic_code": "42210",
+	"sic_description": "Construction of utility projects for fluids"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0571e"
+	},
+	"sic_code": "42910",
+	"sic_description": "Construction of water projects"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0571f"
+	},
+	"sic_code": "42220",
+	"sic_description": "Construction of utility projects for electricity and telecommunications"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05720"
+	},
+	"sic_code": "43110",
+	"sic_description": "Demolition"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05721"
+	},
+	"sic_code": "42120",
+	"sic_description": "Construction of railways and underground railways"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05722"
+	},
+	"sic_code": "42990",
+	"sic_description": "Construction of other civil engineering projects n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05723"
+	},
+	"sic_code": "43130",
+	"sic_description": "Test drilling and boring"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05724"
+	},
+	"sic_code": "43120",
+	"sic_description": "Site preparation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05725"
+	},
+	"sic_code": "43210",
+	"sic_description": "Electrical installation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05726"
+	},
+	"sic_code": "43220",
+	"sic_description": "Plumbing",
+	"field2": "heat and air-conditioning installation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05727"
+	},
+	"sic_code": "43290",
+	"sic_description": "Other construction installation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05728"
+	},
+	"sic_code": "43310",
+	"sic_description": "Plastering"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05729"
+	},
+	"sic_code": "43320",
+	"sic_description": "Joinery installation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0572a"
+	},
+	"sic_code": "43342",
+	"sic_description": "Glazing"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0572b"
+	},
+	"sic_code": "43330",
+	"sic_description": "Floor and wall covering"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0572c"
+	},
+	"sic_code": "43390",
+	"sic_description": "Other building completion and finishing"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0572d"
+	},
+	"sic_code": "43910",
+	"sic_description": "Roofing activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0572e"
+	},
+	"sic_code": "43991",
+	"sic_description": "Scaffold erection"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0572f"
+	},
+	"sic_code": "43999",
+	"sic_description": "Other specialised construction activities n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05730"
+	},
+	"sic_code": "45111",
+	"sic_description": "Sale of new cars and light motor vehicles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05731"
+	},
+	"sic_code": "43341",
+	"sic_description": "Painting"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05732"
+	},
+	"sic_code": "45190",
+	"sic_description": "Sale of other motor vehicles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05733"
+	},
+	"sic_code": "45200",
+	"sic_description": "Maintenance and repair of motor vehicles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05734"
+	},
+	"sic_code": "45310",
+	"sic_description": "Wholesale trade of motor vehicle parts and accessories"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05735"
+	},
+	"sic_code": "45320",
+	"sic_description": "Retail trade of motor vehicle parts and accessories"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05736"
+	},
+	"sic_code": "45112",
+	"sic_description": "Sale of used cars and light motor vehicles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05737"
+	},
+	"sic_code": "45400",
+	"sic_description": "Sale",
+	"field2": "maintenance and repair of motorcycles and related parts and accessories"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05738"
+	},
+	"sic_code": "46120",
+	"sic_description": "Agents involved in the sale of fuels",
+	"field2": "ores",
+	"field3": "metals and industrial chemicals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05739"
+	},
+	"sic_code": "46110",
+	"sic_description": "Agents selling agricultural raw materials",
+	"field2": "livestock",
+	"field3": "textile raw materials and semi-finished goods"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0573a"
+	},
+	"sic_code": "46130",
+	"sic_description": "Agents involved in the sale of timber and building materials"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0573b"
+	},
+	"sic_code": "46160",
+	"sic_description": "Agents involved in the sale of textiles",
+	"field2": "clothing",
+	"field3": "fur",
+	"field4": "footwear and leather goods"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0573c"
+	},
+	"sic_code": "46150",
+	"sic_description": "Agents involved in the sale of furniture",
+	"field2": "household goods",
+	"field3": "hardware and ironmongery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0573d"
+	},
+	"sic_code": "46180",
+	"sic_description": "Agents specialized in the sale of other particular products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0573e"
+	},
+	"sic_code": "46190",
+	"sic_description": "Agents involved in the sale of a variety of goods"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0573f"
+	},
+	"sic_code": "46210",
+	"sic_description": "Wholesale of grain",
+	"field2": "unmanufactured tobacco",
+	"field3": "seeds and animal feeds"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05740"
+	},
+	"sic_code": "46170",
+	"sic_description": "Agents involved in the sale of food",
+	"field2": "beverages and tobacco"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05741"
+	},
+	"sic_code": "46140",
+	"sic_description": "Agents involved in the sale of machinery",
+	"field2": "industrial equipment",
+	"field3": "ships and aircraft"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05742"
+	},
+	"sic_code": "46220",
+	"sic_description": "Wholesale of flowers and plants"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05743"
+	},
+	"sic_code": "46310",
+	"sic_description": "Wholesale of fruit and vegetables"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05744"
+	},
+	"sic_code": "46230",
+	"sic_description": "Wholesale of live animals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05745"
+	},
+	"sic_code": "46240",
+	"sic_description": "Wholesale of hides",
+	"field2": "skins and leather"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05746"
+	},
+	"sic_code": "46341",
+	"sic_description": "Wholesale of fruit and vegetable juices",
+	"field2": "mineral water and soft drinks"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05747"
+	},
+	"sic_code": "46342",
+	"sic_description": "Wholesale of wine",
+	"field2": "beer",
+	"field3": "spirits and other alcoholic beverages"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05748"
+	},
+	"sic_code": "46350",
+	"sic_description": "Wholesale of tobacco products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05749"
+	},
+	"sic_code": "46320",
+	"sic_description": "Wholesale of meat and meat products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0574a"
+	},
+	"sic_code": "46330",
+	"sic_description": "Wholesale of dairy products",
+	"field2": "eggs and edible oils and fats"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0574b"
+	},
+	"sic_code": "46360",
+	"sic_description": "Wholesale of sugar and chocolate and sugar confectionery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0574c"
+	},
+	"sic_code": "46370",
+	"sic_description": "Wholesale of coffee",
+	"field2": "tea",
+	"field3": "cocoa and spices"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0574d"
+	},
+	"sic_code": "46390",
+	"sic_description": "Non-specialised wholesale of food",
+	"field2": "beverages and tobacco"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0574e"
+	},
+	"sic_code": "46380",
+	"sic_description": "Wholesale of other food",
+	"field2": "including fish",
+	"field3": "crustaceans and molluscs"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0574f"
+	},
+	"sic_code": "46410",
+	"sic_description": "Wholesale of textiles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05750"
+	},
+	"sic_code": "46420",
+	"sic_description": "Wholesale of clothing and footwear"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05751"
+	},
+	"sic_code": "46431",
+	"sic_description": "Wholesale of audio tapes",
+	"field2": "records",
+	"field3": "CDs and video tapes and the equipment on which these are played"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05752"
+	},
+	"sic_code": "46440",
+	"sic_description": "Wholesale of china and glassware and cleaning materials"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05753"
+	},
+	"sic_code": "46450",
+	"sic_description": "Wholesale of perfume and cosmetics"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05754"
+	},
+	"sic_code": "46439",
+	"sic_description": "Wholesale of radio",
+	"field2": "television goods & electrical household appliances (other than records",
+	"field3": "tapes",
+	"field4": "CD's & video tapes and the equipment used for playing them)"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05755"
+	},
+	"sic_code": "46470",
+	"sic_description": "Wholesale of furniture",
+	"field2": "carpets and lighting equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05756"
+	},
+	"sic_code": "46480",
+	"sic_description": "Wholesale of watches and jewellery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05757"
+	},
+	"sic_code": "46460",
+	"sic_description": "Wholesale of pharmaceutical goods"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05758"
+	},
+	"sic_code": "46491",
+	"sic_description": "Wholesale of musical instruments"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05759"
+	},
+	"sic_code": "46499",
+	"sic_description": "Wholesale of household goods (other than musical instruments) n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0575a"
+	},
+	"sic_code": "46520",
+	"sic_description": "Wholesale of electronic and telecommunications equipment and parts"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0575b"
+	},
+	"sic_code": "46610",
+	"sic_description": "Wholesale of agricultural machinery",
+	"field2": "equipment and supplies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0575c"
+	},
+	"sic_code": "46510",
+	"sic_description": "Wholesale of computers",
+	"field2": "computer peripheral equipment and software"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0575d"
+	},
+	"sic_code": "46630",
+	"sic_description": "Wholesale of mining",
+	"field2": "construction and civil engineering machinery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0575e"
+	},
+	"sic_code": "46650",
+	"sic_description": "Wholesale of office furniture"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0575f"
+	},
+	"sic_code": "46640",
+	"sic_description": "Wholesale of machinery for the textile industry and of sewing and knitting machines"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05760"
+	},
+	"sic_code": "46660",
+	"sic_description": "Wholesale of other office machinery and equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05761"
+	},
+	"sic_code": "46711",
+	"sic_description": "Wholesale of petroleum and petroleum products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05762"
+	},
+	"sic_code": "46690",
+	"sic_description": "Wholesale of other machinery and equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05763"
+	},
+	"sic_code": "46620",
+	"sic_description": "Wholesale of machine tools"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05764"
+	},
+	"sic_code": "46719",
+	"sic_description": "Wholesale of other fuels and related products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05765"
+	},
+	"sic_code": "46730",
+	"sic_description": "Wholesale of wood",
+	"field2": "construction materials and sanitary equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05766"
+	},
+	"sic_code": "46720",
+	"sic_description": "Wholesale of metals and metal ores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05767"
+	},
+	"sic_code": "46740",
+	"sic_description": "Wholesale of hardware",
+	"field2": "plumbing and heating equipment and supplies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05768"
+	},
+	"sic_code": "46760",
+	"sic_description": "Wholesale of other intermediate products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05769"
+	},
+	"sic_code": "46770",
+	"sic_description": "Wholesale of waste and scrap"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0576a"
+	},
+	"sic_code": "46750",
+	"sic_description": "Wholesale of chemical products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0576b"
+	},
+	"sic_code": "47190",
+	"sic_description": "Other retail sale in non-specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0576c"
+	},
+	"sic_code": "46900",
+	"sic_description": "Non-specialised wholesale trade"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0576d"
+	},
+	"sic_code": "47210",
+	"sic_description": "Retail sale of fruit and vegetables in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0576e"
+	},
+	"sic_code": "47220",
+	"sic_description": "Retail sale of meat and meat products in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0576f"
+	},
+	"sic_code": "47230",
+	"sic_description": "Retail sale of fish",
+	"field2": "crustaceans and molluscs in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05770"
+	},
+	"sic_code": "47240",
+	"sic_description": "Retail sale of bread",
+	"field2": "cakes",
+	"field3": "flour confectionery and sugar confectionery in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05771"
+	},
+	"sic_code": "47260",
+	"sic_description": "Retail sale of tobacco products in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05772"
+	},
+	"sic_code": "47250",
+	"sic_description": "Retail sale of beverages in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05773"
+	},
+	"sic_code": "47300",
+	"sic_description": "Retail sale of automotive fuel in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05774"
+	},
+	"sic_code": "47410",
+	"sic_description": "Retail sale of computers",
+	"field2": "peripheral units and software in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05775"
+	},
+	"sic_code": "47421",
+	"sic_description": "Retail sale of mobile telephones"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05776"
+	},
+	"sic_code": "47429",
+	"sic_description": "Retail sale of telecommunications equipment other than mobile telephones"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05777"
+	},
+	"sic_code": "47430",
+	"sic_description": "Retail sale of audio and video equipment in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05778"
+	},
+	"sic_code": "47510",
+	"sic_description": "Retail sale of textiles in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05779"
+	},
+	"sic_code": "47520",
+	"sic_description": "Retail sale of hardware",
+	"field2": "paints and glass in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0577a"
+	},
+	"sic_code": "47110",
+	"sic_description": "Retail sale in non-specialised stores with food",
+	"field2": "beverages or tobacco predominating"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0577b"
+	},
+	"sic_code": "47540",
+	"sic_description": "Retail sale of electrical household appliances in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0577c"
+	},
+	"sic_code": "47530",
+	"sic_description": "Retail sale of carpets",
+	"field2": "rugs",
+	"field3": "wall and floor coverings in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0577d"
+	},
+	"sic_code": "47591",
+	"sic_description": "Retail sale of musical instruments and scores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0577e"
+	},
+	"sic_code": "47599",
+	"sic_description": "Retail of furniture",
+	"field2": "lighting",
+	"field3": "and similar (not musical instruments or scores) in specialised store"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0577f"
+	},
+	"sic_code": "47290",
+	"sic_description": "Other retail sale of food in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05780"
+	},
+	"sic_code": "47620",
+	"sic_description": "Retail sale of newspapers and stationery in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05781"
+	},
+	"sic_code": "47630",
+	"sic_description": "Retail sale of music and video recordings in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05782"
+	},
+	"sic_code": "47610",
+	"sic_description": "Retail sale of books in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05783"
+	},
+	"sic_code": "47650",
+	"sic_description": "Retail sale of games and toys in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05784"
+	},
+	"sic_code": "47640",
+	"sic_description": "Retail sale of sports goods",
+	"field2": "fishing gear",
+	"field3": "camping goods",
+	"field4": "boats and bicycles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05785"
+	},
+	"sic_code": "47722",
+	"sic_description": "Retail sale of leather goods in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05786"
+	},
+	"sic_code": "47721",
+	"sic_description": "Retail sale of footwear in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05787"
+	},
+	"sic_code": "47710",
+	"sic_description": "Retail sale of clothing in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05788"
+	},
+	"sic_code": "47730",
+	"sic_description": "Dispensing chemist in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05789"
+	},
+	"sic_code": "47741",
+	"sic_description": "Retail sale of hearing aids"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0578a"
+	},
+	"sic_code": "47749",
+	"sic_description": "Retail sale of medical and orthopaedic goods in specialised stores (not incl. hearing aids) n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0578b"
+	},
+	"sic_code": "47750",
+	"sic_description": "Retail sale of cosmetic and toilet articles in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0578c"
+	},
+	"sic_code": "47760",
+	"sic_description": "Retail sale of flowers",
+	"field2": "plants",
+	"field3": "seeds",
+	"field4": "fertilizers",
+	"field5": "pet animals and pet food in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0578d"
+	},
+	"sic_code": "47770",
+	"sic_description": "Retail sale of watches and jewellery in specialised stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0578e"
+	},
+	"sic_code": "47781",
+	"sic_description": "Retail sale in commercial art galleries"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0578f"
+	},
+	"sic_code": "47782",
+	"sic_description": "Retail sale by opticians"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05790"
+	},
+	"sic_code": "47789",
+	"sic_description": "Other retail sale of new goods in specialised stores (not commercial art galleries and opticians)"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05791"
+	},
+	"sic_code": "47799",
+	"sic_description": "Retail sale of other second-hand goods in stores (not incl. antiques)"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05792"
+	},
+	"sic_code": "47791",
+	"sic_description": "Retail sale of antiques including antique books in stores"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05793"
+	},
+	"sic_code": "47810",
+	"sic_description": "Retail sale via stalls and markets of food",
+	"field2": "beverages and tobacco products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05794"
+	},
+	"sic_code": "47820",
+	"sic_description": "Retail sale via stalls and markets of textiles",
+	"field2": "clothing and footwear"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05795"
+	},
+	"sic_code": "47890",
+	"sic_description": "Retail sale via stalls and markets of other goods"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05796"
+	},
+	"sic_code": "47910",
+	"sic_description": "Retail sale via mail order houses or via Internet"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05797"
+	},
+	"sic_code": "47990",
+	"sic_description": "Other retail sale not in stores",
+	"field2": "stalls or markets"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05798"
+	},
+	"sic_code": "49100",
+	"sic_description": "Passenger rail transport",
+	"field2": "interurban"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05799"
+	},
+	"sic_code": "49200",
+	"sic_description": "Freight rail transport"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0579a"
+	},
+	"sic_code": "49410",
+	"sic_description": "Freight transport by road"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0579b"
+	},
+	"sic_code": "49320",
+	"sic_description": "Taxi operation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0579c"
+	},
+	"sic_code": "49390",
+	"sic_description": "Other passenger land transport"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0579d"
+	},
+	"sic_code": "49311",
+	"sic_description": "Urban and suburban passenger railway transportation by underground",
+	"field2": "metro and similar systems"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0579e"
+	},
+	"sic_code": "50100",
+	"sic_description": "Sea and coastal passenger water transport"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0579f"
+	},
+	"sic_code": "49420",
+	"sic_description": "Removal services"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057a0"
+	},
+	"sic_code": "49500",
+	"sic_description": "Transport via pipeline"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057a1"
+	},
+	"sic_code": "50400",
+	"sic_description": "Inland freight water transport"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057a2"
+	},
+	"sic_code": "50200",
+	"sic_description": "Sea and coastal freight water transport"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057a3"
+	},
+	"sic_code": "51102",
+	"sic_description": "Non-scheduled passenger air transport"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057a4"
+	},
+	"sic_code": "49319",
+	"sic_description": "Other urban",
+	"field2": "suburban or metropolitan passenger land transport (not underground",
+	"field3": "metro or similar)"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057a5"
+	},
+	"sic_code": "51210",
+	"sic_description": "Freight air transport"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057a6"
+	},
+	"sic_code": "51101",
+	"sic_description": "Scheduled passenger air transport"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057a7"
+	},
+	"sic_code": "51220",
+	"sic_description": "Space transport"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057a8"
+	},
+	"sic_code": "50300",
+	"sic_description": "Inland passenger water transport"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057a9"
+	},
+	"sic_code": "52101",
+	"sic_description": "Operation of warehousing and storage facilities for water transport activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057aa"
+	},
+	"sic_code": "52102",
+	"sic_description": "Operation of warehousing and storage facilities for air transport activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057ab"
+	},
+	"sic_code": "52103",
+	"sic_description": "Operation of warehousing and storage facilities for land transport activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057ac"
+	},
+	"sic_code": "52213",
+	"sic_description": "Operation of bus and coach passenger facilities at bus and coach stations"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057ad"
+	},
+	"sic_code": "52219",
+	"sic_description": "Other service activities incidental to land transportation",
+	"field2": "n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057ae"
+	},
+	"sic_code": "52211",
+	"sic_description": "Operation of rail freight terminals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057af"
+	},
+	"sic_code": "52212",
+	"sic_description": "Operation of rail passenger facilities at railway stations"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057b0"
+	},
+	"sic_code": "52220",
+	"sic_description": "Service activities incidental to water transportation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057b1"
+	},
+	"sic_code": "52230",
+	"sic_description": "Service activities incidental to air transportation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057b2"
+	},
+	"sic_code": "52241",
+	"sic_description": "Cargo handling for water transport activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057b3"
+	},
+	"sic_code": "52242",
+	"sic_description": "Cargo handling for air transport activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057b4"
+	},
+	"sic_code": "52243",
+	"sic_description": "Cargo handling for land transport activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057b5"
+	},
+	"sic_code": "53100",
+	"sic_description": "Postal activities under universal service obligation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057b6"
+	},
+	"sic_code": "53201",
+	"sic_description": "Licensed carriers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057b7"
+	},
+	"sic_code": "53202",
+	"sic_description": "Unlicensed carrier"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057b8"
+	},
+	"sic_code": "52290",
+	"sic_description": "Other transportation support activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057b9"
+	},
+	"sic_code": "55100",
+	"sic_description": "Hotels and similar accommodation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057ba"
+	},
+	"sic_code": "55202",
+	"sic_description": "Youth hostels"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057bb"
+	},
+	"sic_code": "55201",
+	"sic_description": "Holiday centres and villages"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057bc"
+	},
+	"sic_code": "55900",
+	"sic_description": "Other accommodation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057bd"
+	},
+	"sic_code": "55300",
+	"sic_description": "Recreational vehicle parks",
+	"field2": "trailer parks and camping grounds"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057be"
+	},
+	"sic_code": "56101",
+	"sic_description": "Licensed restaurants"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057bf"
+	},
+	"sic_code": "55209",
+	"sic_description": "Other holiday and other collective accommodation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057c0"
+	},
+	"sic_code": "56102",
+	"sic_description": "Unlicensed restaurants and cafes"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057c1"
+	},
+	"sic_code": "56210",
+	"sic_description": "Event catering activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057c2"
+	},
+	"sic_code": "56103",
+	"sic_description": "Take-away food shops and mobile food stands"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057c3"
+	},
+	"sic_code": "56302",
+	"sic_description": "Public houses and bars"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057c4"
+	},
+	"sic_code": "56290",
+	"sic_description": "Other food services"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057c5"
+	},
+	"sic_code": "56301",
+	"sic_description": "Licensed clubs"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057c6"
+	},
+	"sic_code": "58120",
+	"sic_description": "Publishing of directories and mailing lists"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057c7"
+	},
+	"sic_code": "58110",
+	"sic_description": "Book publishing"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057c8"
+	},
+	"sic_code": "58141",
+	"sic_description": "Publishing of learned journals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057c9"
+	},
+	"sic_code": "59113",
+	"sic_description": "Television programme production activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057ca"
+	},
+	"sic_code": "58130",
+	"sic_description": "Publishing of newspapers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057cb"
+	},
+	"sic_code": "58210",
+	"sic_description": "Publishing of computer games"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057cc"
+	},
+	"sic_code": "59111",
+	"sic_description": "Motion picture production activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057cd"
+	},
+	"sic_code": "58290",
+	"sic_description": "Other software publishing"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057ce"
+	},
+	"sic_code": "59112",
+	"sic_description": "Video production activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057cf"
+	},
+	"sic_code": "58142",
+	"sic_description": "Publishing of  consumer and business journals and periodicals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057d0"
+	},
+	"sic_code": "58190",
+	"sic_description": "Other publishing activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057d1"
+	},
+	"sic_code": "59132",
+	"sic_description": "Video distribution activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057d2"
+	},
+	"sic_code": "59131",
+	"sic_description": "Motion picture distribution activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057d3"
+	},
+	"sic_code": "59120",
+	"sic_description": "Motion picture",
+	"field2": "video and television programme post-production activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057d4"
+	},
+	"sic_code": "59133",
+	"sic_description": "Television programme distribution activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057d5"
+	},
+	"sic_code": "60100",
+	"sic_description": "Radio broadcasting"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057d6"
+	},
+	"sic_code": "60200",
+	"sic_description": "Television programming and broadcasting activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057d7"
+	},
+	"sic_code": "59200",
+	"sic_description": "Sound recording and music publishing activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057d8"
+	},
+	"sic_code": "59140",
+	"sic_description": "Motion picture projection activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057d9"
+	},
+	"sic_code": "61100",
+	"sic_description": "Wired telecommunications activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057da"
+	},
+	"sic_code": "61200",
+	"sic_description": "Wireless telecommunications activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057db"
+	},
+	"sic_code": "61300",
+	"sic_description": "Satellite telecommunications activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057dc"
+	},
+	"sic_code": "62011",
+	"sic_description": "Ready-made interactive leisure and entertainment software development"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057dd"
+	},
+	"sic_code": "61900",
+	"sic_description": "Other telecommunications activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057de"
+	},
+	"sic_code": "62012",
+	"sic_description": "Business and domestic software development"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057df"
+	},
+	"sic_code": "62020",
+	"sic_description": "Information technology consultancy activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057e0"
+	},
+	"sic_code": "62030",
+	"sic_description": "Computer facilities management activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057e1"
+	},
+	"sic_code": "63110",
+	"sic_description": "Data processing",
+	"field2": "hosting and related activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057e2"
+	},
+	"sic_code": "62090",
+	"sic_description": "Other information technology service activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057e3"
+	},
+	"sic_code": "64110",
+	"sic_description": "Central banking"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057e4"
+	},
+	"sic_code": "63120",
+	"sic_description": "Web portals"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057e5"
+	},
+	"sic_code": "63910",
+	"sic_description": "News agency activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057e6"
+	},
+	"sic_code": "63990",
+	"sic_description": "Other information service activities n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057e7"
+	},
+	"sic_code": "64203",
+	"sic_description": "Activities of construction holding companies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057e8"
+	},
+	"sic_code": "64202",
+	"sic_description": "Activities of production holding companies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057e9"
+	},
+	"sic_code": "64204",
+	"sic_description": "Activities of distribution holding companies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057ea"
+	},
+	"sic_code": "64191",
+	"sic_description": "Banks"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057eb"
+	},
+	"sic_code": "64205",
+	"sic_description": "Activities of financial services holding companies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057ec"
+	},
+	"sic_code": "64192",
+	"sic_description": "Building societies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057ed"
+	},
+	"sic_code": "64209",
+	"sic_description": "Activities of other holding companies n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057ee"
+	},
+	"sic_code": "64301",
+	"sic_description": "Activities of investment trusts"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057ef"
+	},
+	"sic_code": "64302",
+	"sic_description": "Activities of unit trusts"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057f0"
+	},
+	"sic_code": "64303",
+	"sic_description": "Activities of venture and development capital companies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057f1"
+	},
+	"sic_code": "64201",
+	"sic_description": "Activities of agricultural holding companies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057f2"
+	},
+	"sic_code": "64305",
+	"sic_description": "Activities of property unit trusts"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057f3"
+	},
+	"sic_code": "64306",
+	"sic_description": "Activities of real estate investment trusts"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057f4"
+	},
+	"sic_code": "64304",
+	"sic_description": "Activities of open-ended investment companies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057f5"
+	},
+	"sic_code": "64910",
+	"sic_description": "Financial leasing"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057f6"
+	},
+	"sic_code": "64921",
+	"sic_description": "Credit granting by non-deposit taking finance houses and other specialist consumer credit grantors"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057f7"
+	},
+	"sic_code": "64922",
+	"sic_description": "Activities of mortgage finance companies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057f8"
+	},
+	"sic_code": "64991",
+	"sic_description": "Security dealing on own account"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057f9"
+	},
+	"sic_code": "64992",
+	"sic_description": "Factoring"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057fa"
+	},
+	"sic_code": "64929",
+	"sic_description": "Other credit granting n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057fb"
+	},
+	"sic_code": "65110",
+	"sic_description": "Life insurance"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057fc"
+	},
+	"sic_code": "64999",
+	"sic_description": "Financial intermediation not elsewhere classified"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057fd"
+	},
+	"sic_code": "65201",
+	"sic_description": "Life reinsurance"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057fe"
+	},
+	"sic_code": "65120",
+	"sic_description": "Non-life insurance"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d057ff"
+	},
+	"sic_code": "65202",
+	"sic_description": "Non-life reinsurance"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05800"
+	},
+	"sic_code": "65300",
+	"sic_description": "Pension funding"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05801"
+	},
+	"sic_code": "66190",
+	"sic_description": "Activities auxiliary to financial intermediation n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05802"
+	},
+	"sic_code": "66220",
+	"sic_description": "Activities of insurance agents and brokers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05803"
+	},
+	"sic_code": "66300",
+	"sic_description": "Fund management activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05804"
+	},
+	"sic_code": "66290",
+	"sic_description": "Other activities auxiliary to insurance and pension funding"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05805"
+	},
+	"sic_code": "66120",
+	"sic_description": "Security and commodity contracts dealing activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05806"
+	},
+	"sic_code": "66210",
+	"sic_description": "Risk and damage evaluation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05807"
+	},
+	"sic_code": "66110",
+	"sic_description": "Administration of financial markets"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05808"
+	},
+	"sic_code": "68100",
+	"sic_description": "Buying and selling of own real estate"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05809"
+	},
+	"sic_code": "68310",
+	"sic_description": "Real estate agencies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0580a"
+	},
+	"sic_code": "68202",
+	"sic_description": "Letting and operating of conference and exhibition centres"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0580b"
+	},
+	"sic_code": "68209",
+	"sic_description": "Other letting and operating of own or leased real estate"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0580c"
+	},
+	"sic_code": "68201",
+	"sic_description": "Renting and operating of Housing Association real estate"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0580d"
+	},
+	"sic_code": "68320",
+	"sic_description": "Management of real estate on a fee or contract basis"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0580e"
+	},
+	"sic_code": "69102",
+	"sic_description": "Solicitors"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0580f"
+	},
+	"sic_code": "69101",
+	"sic_description": "Barristers at law"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05810"
+	},
+	"sic_code": "69201",
+	"sic_description": "Accounting and auditing activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05811"
+	},
+	"sic_code": "69109",
+	"sic_description": "Activities of patent and copyright agents; other legal activities n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05812"
+	},
+	"sic_code": "69202",
+	"sic_description": "Bookkeeping activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05813"
+	},
+	"sic_code": "70100",
+	"sic_description": "Activities of head offices"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05814"
+	},
+	"sic_code": "70210",
+	"sic_description": "Public relations and communications activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05815"
+	},
+	"sic_code": "69203",
+	"sic_description": "Tax consultancy"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05816"
+	},
+	"sic_code": "70221",
+	"sic_description": "Financial management"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05817"
+	},
+	"sic_code": "70229",
+	"sic_description": "Management consultancy activities other than financial management"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05818"
+	},
+	"sic_code": "71111",
+	"sic_description": "Architectural activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05819"
+	},
+	"sic_code": "71129",
+	"sic_description": "Other engineering activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0581a"
+	},
+	"sic_code": "71121",
+	"sic_description": "Engineering design activities for industrial process and production"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0581b"
+	},
+	"sic_code": "72110",
+	"sic_description": "Research and experimental development on biotechnology"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0581c"
+	},
+	"sic_code": "71112",
+	"sic_description": "Urban planning and landscape architectural activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0581d"
+	},
+	"sic_code": "71122",
+	"sic_description": "Engineering related scientific and technical consulting activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0581e"
+	},
+	"sic_code": "71200",
+	"sic_description": "Technical testing and analysis"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0581f"
+	},
+	"sic_code": "72190",
+	"sic_description": "Other research and experimental development on natural sciences and engineering"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05820"
+	},
+	"sic_code": "73200",
+	"sic_description": "Market research and public opinion polling"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05821"
+	},
+	"sic_code": "72200",
+	"sic_description": "Research and experimental development on social sciences and humanities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05822"
+	},
+	"sic_code": "74202",
+	"sic_description": "Other specialist photography"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05823"
+	},
+	"sic_code": "73110",
+	"sic_description": "Advertising agencies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05824"
+	},
+	"sic_code": "73120",
+	"sic_description": "Media representation services"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05825"
+	},
+	"sic_code": "74100",
+	"sic_description": "specialised design activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05826"
+	},
+	"sic_code": "74201",
+	"sic_description": "Portrait photographic activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05827"
+	},
+	"sic_code": "74203",
+	"sic_description": "Film processing"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05828"
+	},
+	"sic_code": "74300",
+	"sic_description": "Translation and interpretation activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05829"
+	},
+	"sic_code": "74209",
+	"sic_description": "Photographic activities not elsewhere classified"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0582a"
+	},
+	"sic_code": "74901",
+	"sic_description": "Environmental consulting activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0582b"
+	},
+	"sic_code": "75000",
+	"sic_description": "Veterinary activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0582c"
+	},
+	"sic_code": "77120",
+	"sic_description": "Renting and leasing of trucks and other heavy vehicles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0582d"
+	},
+	"sic_code": "77110",
+	"sic_description": "Renting and leasing of cars and light motor vehicles"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0582e"
+	},
+	"sic_code": "77220",
+	"sic_description": "Renting of video tapes and disks"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0582f"
+	},
+	"sic_code": "77210",
+	"sic_description": "Renting and leasing of recreational and sports goods"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05830"
+	},
+	"sic_code": "77299",
+	"sic_description": "Renting and leasing of other personal and household goods"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05831"
+	},
+	"sic_code": "74909",
+	"sic_description": "Other professional",
+	"field2": "scientific and technical activities n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05832"
+	},
+	"sic_code": "74902",
+	"sic_description": "Quantity surveying activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05833"
+	},
+	"sic_code": "77310",
+	"sic_description": "Renting and leasing of agricultural machinery and equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05834"
+	},
+	"sic_code": "74990",
+	"sic_description": "Non-trading company"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05835"
+	},
+	"sic_code": "77320",
+	"sic_description": "Renting and leasing of construction and civil engineering machinery and equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05836"
+	},
+	"sic_code": "77330",
+	"sic_description": "Renting and leasing of office machinery and equipment (including computers)"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05837"
+	},
+	"sic_code": "77291",
+	"sic_description": "Renting and leasing of media entertainment equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05838"
+	},
+	"sic_code": "77342",
+	"sic_description": "Renting and leasing of freight water transport equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05839"
+	},
+	"sic_code": "77341",
+	"sic_description": "Renting and leasing of passenger water transport equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0583a"
+	},
+	"sic_code": "77351",
+	"sic_description": "Renting and leasing of air passenger transport equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0583b"
+	},
+	"sic_code": "77352",
+	"sic_description": "Renting and leasing of freight air transport equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0583c"
+	},
+	"sic_code": "78101",
+	"sic_description": "Motion picture",
+	"field2": "television and other theatrical casting activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0583d"
+	},
+	"sic_code": "77390",
+	"sic_description": "Renting and leasing of other machinery",
+	"field2": "equipment and tangible goods n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0583e"
+	},
+	"sic_code": "77400",
+	"sic_description": "Leasing of intellectual property and similar products",
+	"field2": "except copyright works"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0583f"
+	},
+	"sic_code": "79110",
+	"sic_description": "Travel agency activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05840"
+	},
+	"sic_code": "78300",
+	"sic_description": "Human resources provision and management of human resources functions"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05841"
+	},
+	"sic_code": "78109",
+	"sic_description": "Other activities of employment placement agencies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05842"
+	},
+	"sic_code": "78200",
+	"sic_description": "Temporary employment agency activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05843"
+	},
+	"sic_code": "81100",
+	"sic_description": "Combined facilities support activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05844"
+	},
+	"sic_code": "81223",
+	"sic_description": "Furnace and chimney cleaning services"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05845"
+	},
+	"sic_code": "81222",
+	"sic_description": "Specialised cleaning services"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05846"
+	},
+	"sic_code": "81229",
+	"sic_description": "Other building and industrial cleaning activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05847"
+	},
+	"sic_code": "81291",
+	"sic_description": "Disinfecting and exterminating services"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05848"
+	},
+	"sic_code": "81299",
+	"sic_description": "Other cleaning services"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05849"
+	},
+	"sic_code": "81300",
+	"sic_description": "Landscape service activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0584a"
+	},
+	"sic_code": "80300",
+	"sic_description": "Investigation activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0584b"
+	},
+	"sic_code": "82190",
+	"sic_description": "Photocopying",
+	"field2": "document preparation and other specialised office support activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0584c"
+	},
+	"sic_code": "82200",
+	"sic_description": "Activities of call centres"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0584d"
+	},
+	"sic_code": "79901",
+	"sic_description": "Activities of tourist guides"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0584e"
+	},
+	"sic_code": "79120",
+	"sic_description": "Tour operator activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0584f"
+	},
+	"sic_code": "80100",
+	"sic_description": "Private security activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05850"
+	},
+	"sic_code": "81221",
+	"sic_description": "Window cleaning services"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05851"
+	},
+	"sic_code": "81210",
+	"sic_description": "General cleaning of buildings"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05852"
+	},
+	"sic_code": "80200",
+	"sic_description": "Security systems service activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05853"
+	},
+	"sic_code": "79909",
+	"sic_description": "Other reservation service activities n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05854"
+	},
+	"sic_code": "82110",
+	"sic_description": "Combined office administrative service activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05855"
+	},
+	"sic_code": "82301",
+	"sic_description": "Activities of exhibition and fair organisers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05856"
+	},
+	"sic_code": "82912",
+	"sic_description": "Activities of credit bureaus"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05857"
+	},
+	"sic_code": "82302",
+	"sic_description": "Activities of conference organisers"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05858"
+	},
+	"sic_code": "82911",
+	"sic_description": "Activities of collection agencies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05859"
+	},
+	"sic_code": "84110",
+	"sic_description": "General public administration activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0585a"
+	},
+	"sic_code": "82990",
+	"sic_description": "Other business support service activities n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0585b"
+	},
+	"sic_code": "82920",
+	"sic_description": "Packaging activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0585c"
+	},
+	"sic_code": "84120",
+	"sic_description": "Regulation of health care",
+	"field2": "education",
+	"field3": "cultural and other social services",
+	"field4": "not incl. social security"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0585d"
+	},
+	"sic_code": "84130",
+	"sic_description": "Regulation of and contribution to more efficient operation of businesses"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0585e"
+	},
+	"sic_code": "84210",
+	"sic_description": "Foreign affairs"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0585f"
+	},
+	"sic_code": "84220",
+	"sic_description": "Defence activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05860"
+	},
+	"sic_code": "84250",
+	"sic_description": "Fire service activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05861"
+	},
+	"sic_code": "84230",
+	"sic_description": "Justice and judicial activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05862"
+	},
+	"sic_code": "84300",
+	"sic_description": "Compulsory social security activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05863"
+	},
+	"sic_code": "84240",
+	"sic_description": "Public order and safety activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05864"
+	},
+	"sic_code": "85100",
+	"sic_description": "Pre-primary education"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05865"
+	},
+	"sic_code": "85200",
+	"sic_description": "Primary education"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05866"
+	},
+	"sic_code": "85310",
+	"sic_description": "General secondary education"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05867"
+	},
+	"sic_code": "85320",
+	"sic_description": "Technical and vocational secondary education"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05868"
+	},
+	"sic_code": "85410",
+	"sic_description": "Post-secondary non-tertiary education"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05869"
+	},
+	"sic_code": "85530",
+	"sic_description": "Driving school activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0586a"
+	},
+	"sic_code": "85520",
+	"sic_description": "Cultural education"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0586b"
+	},
+	"sic_code": "85421",
+	"sic_description": "First-degree level higher education"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0586c"
+	},
+	"sic_code": "86102",
+	"sic_description": "Medical nursing home activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0586d"
+	},
+	"sic_code": "85510",
+	"sic_description": "Sports and recreation education"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0586e"
+	},
+	"sic_code": "85600",
+	"sic_description": "Educational support services"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0586f"
+	},
+	"sic_code": "85422",
+	"sic_description": "Post-graduate level higher education"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05870"
+	},
+	"sic_code": "85590",
+	"sic_description": "Other education n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05871"
+	},
+	"sic_code": "86101",
+	"sic_description": "Hospital activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05872"
+	},
+	"sic_code": "86210",
+	"sic_description": "General medical practice activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05873"
+	},
+	"sic_code": "86220",
+	"sic_description": "Specialists medical practice activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05874"
+	},
+	"sic_code": "88100",
+	"sic_description": "Social work activities without accommodation for the elderly and disabled"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05875"
+	},
+	"sic_code": "87300",
+	"sic_description": "Residential care activities for the elderly and disabled"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05876"
+	},
+	"sic_code": "86230",
+	"sic_description": "Dental practice activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05877"
+	},
+	"sic_code": "87200",
+	"sic_description": "Residential care activities for learning difficulties",
+	"field2": "mental health and substance abuse"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05878"
+	},
+	"sic_code": "87100",
+	"sic_description": "Residential nursing care facilities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05879"
+	},
+	"sic_code": "86900",
+	"sic_description": "Other human health activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0587a"
+	},
+	"sic_code": "88990",
+	"sic_description": "Other social work activities without accommodation n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0587b"
+	},
+	"sic_code": "90010",
+	"sic_description": "Performing arts"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0587c"
+	},
+	"sic_code": "90020",
+	"sic_description": "Support activities to performing arts"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0587d"
+	},
+	"sic_code": "87900",
+	"sic_description": "Other residential care activities n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0587e"
+	},
+	"sic_code": "88910",
+	"sic_description": "Child day-care activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0587f"
+	},
+	"sic_code": "90040",
+	"sic_description": "Operation of arts facilities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05880"
+	},
+	"sic_code": "91012",
+	"sic_description": "Archives activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05881"
+	},
+	"sic_code": "90030",
+	"sic_description": "Artistic creation"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05882"
+	},
+	"sic_code": "91011",
+	"sic_description": "Library activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05883"
+	},
+	"sic_code": "91020",
+	"sic_description": "Museums activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05884"
+	},
+	"sic_code": "91030",
+	"sic_description": "Operation of historical sites and buildings and similar visitor attractions"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05885"
+	},
+	"sic_code": "93130",
+	"sic_description": "Fitness facilities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05886"
+	},
+	"sic_code": "92000",
+	"sic_description": "Gambling and betting activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05887"
+	},
+	"sic_code": "91040",
+	"sic_description": "Botanical and zoological gardens and nature reserves activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05888"
+	},
+	"sic_code": "93110",
+	"sic_description": "Operation of sports facilities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05889"
+	},
+	"sic_code": "93199",
+	"sic_description": "Other sports activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0588a"
+	},
+	"sic_code": "94910",
+	"sic_description": "Activities of religious organizations"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0588b"
+	},
+	"sic_code": "94110",
+	"sic_description": "Activities of business and employers membership organizations"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0588c"
+	},
+	"sic_code": "93290",
+	"sic_description": "Other amusement and recreation activities n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0588d"
+	},
+	"sic_code": "94120",
+	"sic_description": "Activities of professional membership organizations"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0588e"
+	},
+	"sic_code": "93120",
+	"sic_description": "Activities of sport clubs"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0588f"
+	},
+	"sic_code": "93210",
+	"sic_description": "Activities of amusement parks and theme parks"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05890"
+	},
+	"sic_code": "93191",
+	"sic_description": "Activities of racehorse owners"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05891"
+	},
+	"sic_code": "94200",
+	"sic_description": "Activities of trade unions"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05892"
+	},
+	"sic_code": "94990",
+	"sic_description": "Activities of other membership organizations n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05893"
+	},
+	"sic_code": "95210",
+	"sic_description": "Repair of consumer electronics"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05894"
+	},
+	"sic_code": "95120",
+	"sic_description": "Repair of communication equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05895"
+	},
+	"sic_code": "95110",
+	"sic_description": "Repair of computers and peripheral equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05896"
+	},
+	"sic_code": "94920",
+	"sic_description": "Activities of political organizations"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05897"
+	},
+	"sic_code": "95220",
+	"sic_description": "Repair of household appliances and home and garden equipment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05898"
+	},
+	"sic_code": "95230",
+	"sic_description": "Repair of footwear and leather goods"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d05899"
+	},
+	"sic_code": "95250",
+	"sic_description": "Repair of watches",
+	"field2": "clocks and jewellery"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0589a"
+	},
+	"sic_code": "95240",
+	"sic_description": "Repair of furniture and home furnishings"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0589b"
+	},
+	"sic_code": "96010",
+	"sic_description": "Washing and (dry-)cleaning of textile and fur products"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0589c"
+	},
+	"sic_code": "95290",
+	"sic_description": "Repair of personal and household goods n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0589d"
+	},
+	"sic_code": "96040",
+	"sic_description": "Physical well-being activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0589e"
+	},
+	"sic_code": "96030",
+	"sic_description": "Funeral and related activities"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d0589f"
+	},
+	"sic_code": "98100",
+	"sic_description": "Undifferentiated goods-producing activities of private households for own use"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d058a0"
+	},
+	"sic_code": "96020",
+	"sic_description": "Hairdressing and other beauty treatment"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d058a1"
+	},
+	"sic_code": "96090",
+	"sic_description": "Other service activities n.e.c."
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d058a2"
+	},
+	"sic_code": "99000",
+	"sic_description": "Activities of extraterritorial organizations and bodies"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d058a3"
+	},
+	"sic_code": "98000",
+	"sic_description": "Residents property management"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d058a4"
+	},
+	"sic_code": "97000",
+	"sic_description": "Activities of households as employers of domestic personnel"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d058a5"
+	},
+	"sic_code": "98200",
+	"sic_description": "Undifferentiated service-producing activities of private households for own use"
+},
+{
+	"_id": {
+		"$oid": "636a3ea0a565843d84d058a6"
+	},
+	"sic_code": "99999",
+	"sic_description": "Dormant Company"
+}]
+
