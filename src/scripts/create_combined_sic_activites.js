@@ -8,13 +8,19 @@
   - sic_description (from condensed_sic_codes)
   - is_ch_activity (true if parent is ch_economic_activity_sic_codes)
   - activity_description_lower_case (lower case of the activity_description field)
+  - generation_date has been added to keep track of when records have been created
 
 
 */
 
 
 db.combined_sic_activities.drop()
-db.ons_combined_sic_activities.aggregate([{$out : "combined_sic_activities"}])
+db.ons_combined_sic_activities.aggregate([ {
+    $addFields: {
+       "generation_date": new Date()
+    }
+ },
+ {$out : "combined_sic_activities"}])
 
 db.ch_economic_activity_sic_codes.aggregate([
     { $lookup:
@@ -56,8 +62,13 @@ db.ch_economic_activity_sic_codes.aggregate([
             "activity_description" : 1,
             "activity_description_search_field" : { $replaceAll: { input: "$activity_description_search_field_a" , find: ")", replacement: "" } }            ,
             "sic_description" : 1,
-            "is_ch_activity" : 1
-        }
+            "is_ch_activity" : 1,
+            "count": { $literal : 1 }
+        },
     },
     { $merge : "combined_sic_activities"}
+
+    
 ]);
+
+
