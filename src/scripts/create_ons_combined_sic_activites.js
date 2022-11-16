@@ -53,7 +53,8 @@ db.ons_economic_activity_sic_codes.aggregate([
             "activity_description" : 1,
             "activity_description_search_field" : { $replaceAll: { input: "$activity_description_search_field_a" , find: ")", replacement: "" } }            ,
             "sic_description" : 1,
-            "is_ch_activity" : 1
+            "is_ch_activity" : 1,
+            "generation_date": new Date()
         }
     },
     { $out : "ons_combined_sic_activities"}
